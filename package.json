@@ -11,6 +11,20 @@
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
+    "method-override": "^3.0.0",
     "morgan": "~1.9.1"
-  }
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnerMcCabe/express-dev-skills.git"
+  },
+  "author": "Conner McCabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnerMcCabe/express-dev-skills/issues"
+  },
+  "homepage": "https://github.com/ConnerMcCabe/express-dev-skills#readme",
+  "description": ""
 }
